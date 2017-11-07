@@ -1,0 +1,1 @@
+# max-home-assistant
